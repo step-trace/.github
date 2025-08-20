@@ -1,5 +1,13 @@
 ## 안녕하세요👋 팀, 자취인이 만든 서비스 👣발자취👣를 소개합니다!
-
+<p align="center">
+        <img width="3960" height="8604" alt="Image" src="https://github.com/user-attachments/assets/fa27ca68-240d-4bd4-a971-9627c5111ff2" />
+        
+        <img width="3960" height="8604" alt="Image" src="https://github.com/user-attachments/assets/d8f48e01-13c9-47b0-8702-441d8ebc6a58" />
+        
+        <img width="3960" height="8604" alt="Image" src="https://github.com/user-attachments/assets/720bbf6f-0d10-4e48-be8a-ad845de43713" />
+        
+        <img width="3960" height="8604" alt="Image" src="https://github.com/user-attachments/assets/b2148b87-6d2e-4efe-973f-d7f124372c6c" />
+</p>
 
 ## 목차
 1. [발자취란?](#-발자취란?-)
