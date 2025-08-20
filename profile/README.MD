@@ -1,12 +1,9 @@
 ## 안녕하세요👋 팀, 자취인이 만든 서비스 👣발자취👣를 소개합니다!
 <p align="center">
-        <img width="3960" height="8604" alt="Image" src="https://github.com/user-attachments/assets/fa27ca68-240d-4bd4-a971-9627c5111ff2" />
-        
-        <img width="3960" height="8604" alt="Image" src="https://github.com/user-attachments/assets/d8f48e01-13c9-47b0-8702-441d8ebc6a58" />
-        
-        <img width="3960" height="8604" alt="Image" src="https://github.com/user-attachments/assets/720bbf6f-0d10-4e48-be8a-ad845de43713" />
-        
-        <img width="3960" height="8604" alt="Image" src="https://github.com/user-attachments/assets/b2148b87-6d2e-4efe-973f-d7f124372c6c" />
+        <img width="22%" alt="Image" src="https://github.com/user-attachments/assets/fa27ca68-240d-4bd4-a971-9627c5111ff2" />
+        <img width="22%" alt="Image" src="https://github.com/user-attachments/assets/d8f48e01-13c9-47b0-8702-441d8ebc6a58" />
+        <img width="22%" alt="Image" src="https://github.com/user-attachments/assets/720bbf6f-0d10-4e48-be8a-ad845de43713" />
+        <img width="22%" alt="Image" src="https://github.com/user-attachments/assets/b2148b87-6d2e-4efe-973f-d7f124372c6c" />
 </p>
 
 ## 목차
@@ -17,11 +14,14 @@
 5. [기대효과 및 활용 분야](#-기대효과-및-활용-분야-)
 6. [자취인 팀원 소개](#-자취인-팀원-소개-)
 
+</br>
+
 ## 발자취란?
 누구나 보행 중 발생할 수 있는 **맨홀 사고를 예방하기 위한 시민 참여형 안전 플랫폼**입니다.
 `‘발’(보행자)`와 `‘자취’(기록)`의 결합으로 시민이 남긴 제보가 지도 위 발자국처럼 쌓여 
 위험 구간을 드러내고, 다음 보행자의 안전한 길을 만든다는 의미를 가지고 있습니다.
 
+</br>
 
 ## 발자취 기획 배경
 > 1. 추락 방지 시설 의무화의 적용 한계와 설치율 격차
@@ -37,6 +37,7 @@
 >
 안전신문고 등 기존 시스템을 통해 신고된 정보는 공개되지만 내 주변에 어떤 위험이 있는지 직관적으로 파악하기 어렵습니다. 
 
+</br>
 
 ## 발자취의 목적
 > 1. 시민 관점 – 사전 인지 및 회피
@@ -50,9 +51,33 @@
 시민 제보·민원·정비 이력을 한곳에 모아 통합 안전 DB를 제공받을 수 있습니다. 
 위험 지점을 등급화하여 교체·설치 우선순위를 설정할 수 있습니다.
 
+</br>
 
 ## 주요 기능 시연
+### 1. 권한 동의
+| 위치 권한 | 알림 권한 | 백그라운드 권한 | 
+|----------| ---------- | ---------- |
+|<img src="https://github.com/user-attachments/assets/1f545a1a-12c1-4c70-946d-ba7fbb0426ce" width="400px" /> | <img src="https://github.com/user-attachments/assets/0a9dac76-8c0e-4d71-90d6-f24fb5cc60b0" width="400px" /> | <img src="https://github.com/user-attachments/assets/f2aed1fb-84a7-492d-becf-6e79267e2120" width="400px" /> |
 
+### 2. 온보딩 및 로그인/회원가입
+| 앱 시작 온보딩 | 로그인/회원가입 |
+|----------| ---------- |
+|<img src="https://github.com/user-attachments/assets/2276c636-1ba4-4dc2-b1b0-0f3b1c8ac11f" width="400px" /> | <img src="https://github.com/user-attachments/assets/57195d80-cb30-498f-af7b-ccb471d8d1bc" width="400px" /> |
+
+
+### 3. 맨홀 제보 및 확인
+| 위험 맨홀 제보하기 | 등록된 맨홀 확인 |
+|----------| ---------- |
+|<img src="" width="400px" /> | <img src="https://github.com/user-attachments/assets/2ba9f894-afe1-4285-995c-6aab04fd140f" width="400px" /> |
+
+
+## 4. 알림 설정 및 앱푸시
+| 알림 설정 | 위험 맨홀 알림 |
+|----------| ---------- |
+|<img src="https://github.com/user-attachments/assets/a1c167f1-f808-4603-baef-764488e97f8e" width="400px" /> | <img src="https://github.com/user-attachments/assets/8484fb16-8701-4e72-8944-6e1752aa2e71" width="400px" /> |
+
+
+</br>
 
 ## 기대효과 및 활용 분야
 > 기대효과
@@ -75,5 +100,6 @@
 2. 시민 안전 모니터링 도구
 시민단체의 지역 안전 감시, 연구기관의 도시 인프라 데이터 수집
 
+</br>
 
 ## 자취인 팀원 소개
