@@ -57,24 +57,25 @@
 ### 1. 권한 동의
 | 위치 권한 | 알림 권한 | 백그라운드 권한 | 
 |----------| ---------- | ---------- |
-|<img src="https://github.com/user-attachments/assets/1f545a1a-12c1-4c70-946d-ba7fbb0426ce" width="400px" /> | <img src="https://github.com/user-attachments/assets/0a9dac76-8c0e-4d71-90d6-f24fb5cc60b0" width="400px" /> | <img src="https://github.com/user-attachments/assets/f2aed1fb-84a7-492d-becf-6e79267e2120" width="400px" /> |
+|<img src="https://github.com/user-attachments/assets/1f545a1a-12c1-4c70-946d-ba7fbb0426ce" width="200px" /> | <img src="https://github.com/user-attachments/assets/0a9dac76-8c0e-4d71-90d6-f24fb5cc60b0" width="200px" /> | <img src="https://github.com/user-attachments/assets/f2aed1fb-84a7-492d-becf-6e79267e2120" width="200px" /> |
 
 ### 2. 온보딩 및 로그인/회원가입
 | 앱 시작 온보딩 | 로그인/회원가입 |
 |----------| ---------- |
-|<img src="https://github.com/user-attachments/assets/2276c636-1ba4-4dc2-b1b0-0f3b1c8ac11f" width="400px" /> | <img src="https://github.com/user-attachments/assets/57195d80-cb30-498f-af7b-ccb471d8d1bc" width="400px" /> |
+|<img src="https://github.com/user-attachments/assets/2276c636-1ba4-4dc2-b1b0-0f3b1c8ac11f" width="200px" /> | <img src="https://github.com/user-attachments/assets/57195d80-cb30-498f-af7b-ccb471d8d1bc" width="200px" /> |
 
 
-### 3. 맨홀 제보 및 확인
-| 위험 맨홀 제보하기 | 등록된 맨홀 확인 |
-|----------| ---------- |
-|<img src="" width="400px" /> | <img src="https://github.com/user-attachments/assets/2ba9f894-afe1-4285-995c-6aab04fd140f" width="400px" /> |
+### 3. 위험 맨홀 제보 및 확인
+| AI 이미지 분석 | 위치 및 내용 입력 | 등록된 맨홀 확인 |
+|----------| ---------- | ---------- |
+|<img src="https://github.com/user-attachments/assets/9c7d7382-6386-4e5b-80d7-bf3ab73ebdd6" width="200px" /> | <img src="https://github.com/user-attachments/assets/bd90e8f8-2a3b-4d67-98c8-865ebec64127" width="200px" /> | <img src="https://github.com/user-attachments/assets/2ba9f894-afe1-4285-995c-6aab04fd140f" width="200px" /> |
+
 
 
 ## 4. 알림 설정 및 앱푸시
 | 알림 설정 | 위험 맨홀 알림 |
 |----------| ---------- |
-|<img src="https://github.com/user-attachments/assets/a1c167f1-f808-4603-baef-764488e97f8e" width="400px" /> | <img src="https://github.com/user-attachments/assets/8484fb16-8701-4e72-8944-6e1752aa2e71" width="400px" /> |
+|<img src="https://github.com/user-attachments/assets/a1c167f1-f808-4603-baef-764488e97f8e" width="200px" /> | <img src="https://github.com/user-attachments/assets/8484fb16-8701-4e72-8944-6e1752aa2e71" width="200px" /> |
 
 
 </br>
@@ -99,7 +100,17 @@
 
 2. 시민 안전 모니터링 도구
 시민단체의 지역 안전 감시, 연구기관의 도시 인프라 데이터 수집
+(---작업중)
 
 </br>
 
 ## 자취인 팀원 소개
+| 홍유진 | 이은솔 | 우상규 | 장원진 | 김세훈 | 
+|----------| ---------- | ---------- | ---------- | ---------- |
+| PM | Designer | Frontend Developer | Frontend Developer | Backend Developer |
+
+🔗발자취 개발자들의 레포지토리
+
+> [👣 Step Trace-Client 레포지토리 가기](https://github.com/step-trace/client) </br>
+> [👣 Step Trace-Server 레포지토리 가기](https://github.com/step-trace/server)
+
