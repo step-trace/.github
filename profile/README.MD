@@ -72,7 +72,7 @@
 
 
 
-## 4. 알림 설정 및 앱푸시
+### 4. 알림 설정 및 앱푸시
 | 알림 설정 | 위험 맨홀 알림 |
 |----------| ---------- |
 |<img src="https://github.com/user-attachments/assets/a1c167f1-f808-4603-baef-764488e97f8e" width="200px" /> | <img src="https://github.com/user-attachments/assets/8484fb16-8701-4e72-8944-6e1752aa2e71" width="200px" /> |
